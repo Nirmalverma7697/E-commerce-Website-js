@@ -1,7 +1,33 @@
-Hi, this project is a fully responsive e-commerce website project made only HTML, CSS and JavaScript.
+# E-commerce Website (JavaScript)
 
-No framework or library (except glide.js) was used throughout the project.
+**Live Demo:** [https://e-commerce-website-js-seven.vercel.app/](https://e-commerce-website-js-seven.vercel.app/)
 
-You can reach the live link of the project from the link below.
+---
 
-[Click here to view the project](https://pushpraj7d.github.io/E-commerce-website/)
+## Overview
+This project is a simple **E-commerce Website** built using JavaScript, HTML, and CSS.  
+It demonstrates a basic online shopping experience with a clean and responsive design.
+
+---
+
+## Features
+- Product listing with details  
+- Shopping cart functionality  
+- Checkout page (if implemented)  
+- Responsive design for mobile and desktop  
+
+---
+
+## Technologies Used
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**  
+- [Add any frameworks/libraries if you used, e.g., Bootstrap, Tailwind, etc.]  
+
+---
+
+## Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nirmalverma7697/E-commerce-Website-js.git
